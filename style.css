@@ -26,7 +26,7 @@ width: 394
     background-color: #ebebeb;
     padding-bottom: 200px;
     padding-right: 50px;
-    width:50%;
+    width:495px;
     height: 100%;
     text-align:center;
     float:left;
@@ -40,7 +40,7 @@ width: 394
     width: 20%;
 }
 .article{
-color:#777;
+color:#ebebeb;
 background-color:#777;
 z-index:0;
 position: absolute;
@@ -49,13 +49,13 @@ top:270px;
 padding:50px;
 width: 18%;
 }
-.h{
+h1{
 color: #777;
 background-color: #ebebeb;
 z-index:1;
 position:absolute;
 left:70px;
-top:290px;
+top:270px;
 width:22%;
 }
 .P{
@@ -67,11 +67,13 @@ left:70px;
 top:360px;
 width:22%;  
 text-align: center;
+cd
 }
 .footer{
     background-color:#ebebeb;
     position: absolute;
-    bottom: 450px;
+    margin-top: 5px;
+    bottom: 400px;
     width: 49%;
     padding:10px;
     text-align: center;
